@@ -15,12 +15,11 @@ class Saravanan:
     name       = "Saravanan P"
     role       = "Full Stack Developer & BCA Student"
     college    = "Arignar Anna Govt. Arts College, Villupuram"
-    programme  = "Naan Mudhalvan — Tamil Nadu"
     location   = "Villupuram, Tamil Nadu 🇮🇳"
     languages  = ["Tamil 🌿", "English"]
     philosophy = "AI tools + logical thinking = real-world impact 💡"
     hobbies    = ["Coding 💻", "Gym 🏋️", "Building Products 🛒"]
-    business   = "Running a grocery shop & managing vendor invoices 📦"
+    business   = "Running a grocery shop , Mat shop and managing vendor invoices 📦"
 ```
 
 ---
