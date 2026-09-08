@@ -13,7 +13,7 @@
 ```python
 class Saravanan:
     name       = "Saravanan P"
-    role       = "Full Stack Developer & BCA Student"
+    role       = "BCA Student"
     college    = "Arignar Anna Govt. Arts College, Villupuram"
     location   = "Villupuram, Tamil Nadu 🇮🇳"
     languages  = ["Tamil 🌿", "English"]
